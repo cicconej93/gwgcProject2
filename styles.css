@@ -1,21 +1,9 @@
-img {
+.topImage {
 	width: 300px;
 	padding-top: 5px;
 }
 
-span {
-	font-weight: bold;
-}
-
-ul {
-	list-style: none;
-	margin: 0px;
-	padding: 0px;
-	
-
-}
-
-h3 {
+.name {
 	width: 100%;
 	text-align: center;
 	background-color: #948f75;
@@ -25,6 +13,16 @@ h3 {
 	color: #ecdfda;
 	letter-spacing: 10px;
 	font-family: 'Ubuntu', sans-serif;
+}
+
+.list1 {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.listItem {
+	font-weight: bold;
 }
 
 .fact {
